@@ -1,0 +1,3 @@
+Veritabanı dosyası PostgreSQL'den pg_dump yardımıyla oluşturulmuştur. pssql yardımıyla tekrar içe aktarılabilir. 
+
+Veritabanları arasındaki bağlantı tablolar oluşturulurken REFERENCES deyimiyle kurulmuştur.
